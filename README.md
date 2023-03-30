@@ -3,9 +3,9 @@
 # status.vim
 pinosaur's lightweight vim status bar
 
-</div>
-
 ![status bar](static/status.gif)
+
+</div>
 
 `status.vim` is my own minimal status bar. I wrote it since I wanted a
 functioning statusbar that doesn't slow down the rest of vim and doesn't have a
